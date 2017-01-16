@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Expendedor
+comment0.text=\n\ Write\ a\ description\ of\ class\ Expendedor\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Expendedor()
+comment2.params=
+comment2.target=void\ estadoMaquina()
+comment3.params=
+comment3.target=int\ getCantSnacks()
+comment4.params=
+comment4.target=void\ opcionUsuario()
+comment5.params=
+comment5.target=void\ setValorPrueba()
+comment6.params=
+comment6.target=void\ actualizaElementos()
+comment7.params=
+comment7.target=void\ okPressed()
+comment8.params=
+comment8.target=void\ act()
+numComments=9

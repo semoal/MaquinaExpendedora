@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ creaElemento()
+comment3.params=
+comment3.target=void\ snacksDisenyo()
+comment4.params=id\ nombre\ precio\ imagen\ x
+comment4.target=void\ filaSnack(int,\ java.lang.String,\ double,\ java.lang.String,\ int)
+comment5.params=
+comment5.target=void\ tecladoDisenyo()
+comment6.params=
+comment6.target=void\ creaOk()
+comment7.params=
+comment7.target=void\ monedasMonedero()
+comment8.params=
+comment8.target=void\ act()
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Snack
+comment0.text=\n\ Write\ a\ description\ of\ class\ Snack\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=ID\ NOMBRE\ PRECIO\ image
+comment1.target=Snack(int,\ java.lang.String,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=Snack()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
